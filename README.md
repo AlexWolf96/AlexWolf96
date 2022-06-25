@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexWolf96
 - 👀 I’m interested in getting better day by day
-- 🌱 I’m currently learning Java POO
+- 🌱 I’m currently learning Javascript, and working with COBOL.
 - 💞️ I’m looking to collaborate on anything can i help
 - 📫 How to reach me: Instagram and Twitter @alexstarwolf
                         Facebook: Alexander Comparada Frias
